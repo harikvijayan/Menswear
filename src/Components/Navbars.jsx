@@ -46,7 +46,7 @@ function Navbars() {
       navigate('/ULI')
     }     
   }
-  return (
+  return (   //hai
     <Navbar expand="lg" className="bg-body-tertiary  navbarsize position-fixed fixed-top">
       <Container fluid>
         <Navbar.Brand href="#">Premium</Navbar.Brand>
