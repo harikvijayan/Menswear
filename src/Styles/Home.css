@@ -1,0 +1,91 @@
+.main{
+  margin-top: 70px;
+}
+
+
+.logos{
+    background-color: ghostwhite;
+    padding: 5px;
+    box-shadow: 0px 0px 13px 2px;
+    margin: 15px
+}
+.logoi{
+    padding:0% 1%;
+    
+}
+.cat{
+    padding-right: 1%;
+}
+.category{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0% 10%;
+    justify-content: center;
+}
+.cat-el{
+    padding-right: 1%;
+}
+.container{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: center;
+    padding-top: 70px;
+    
+}
+.lnk{
+    text-decoration: none;
+}
+
+.but{
+    border:none;
+    background-color: white;
+}
+.cardimg{
+max-width: 100%;
+height: 300px;
+margin: auto;
+display: block;
+}
+div.coupon{
+    padding: 5px;
+  background-color:whitesmoke;
+  margin: 5px;
+  border-radius: 10px;
+   box-shadow: 0px 0px 10px 0px grey; 
+}
+.cntr{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.cntr-btn{
+    height:30px;
+    width:30px;
+    justify-content: center;   
+    background-color: black;
+    color: white;
+}
+
+.cnt{
+    padding:0px 15px;
+    color: rgb(19, 15, 15);
+
+}
+
+h5{
+    font-size: 16px;
+    letter-spacing: 5px;
+}
+.buy-now{
+    border-radius: 10px;
+    background-color: #ffe093;
+    height:50px;
+    width:100px;
+}
+@media screen and(Max-width:2500px) {
+    .container{
+        justify-content: center;
+    }
+    
+}

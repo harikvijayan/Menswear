@@ -1,0 +1,49 @@
+.com{
+    padding: 5% 0%;
+    background-color: beige;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+.name{
+    padding-top: 2%;
+    border-radius: 40px;
+}
+.butt{
+    padding-top: 1%;
+    
+}
+.error{
+    color: red;
+}
+.b{
+    padding-top: 1%;
+}
+.click{
+    border-radius:10px;
+    background-color:rgb(207, 112, 191)
+}
+.user{
+    padding-top: 80px;
+}
+.word{
+    color: darkolivegreen;
+}
+.frm-btn{
+    color: black;
+    border: none;
+    background-color: chartreuse;
+    height: 35px;
+    width:70px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.comp{
+   background-color: aquamarine;
+   margin-right: 30%;
+   margin-left: 30%;
+   border-radius: 15px;
+   height: 300px; 
+
+}

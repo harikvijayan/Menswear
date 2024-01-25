@@ -1,0 +1,49 @@
+.link{
+    text-decoration: none;
+    letter-spacing: 3px;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: center;
+    line-height: 38px;
+
+}
+.brand{
+    text-decoration: none;
+    letter-spacing: 5px;
+    font-size: 25px;
+    
+}
+ul{
+    padding-right: 5%;
+    
+}
+.navbar-item{
+    padding: 5px; 
+}
+
+.inp{
+  
+    height: 35px;
+    letter-spacing: 4px;
+    box-shadow: 0px 0px 0px 1px grey;
+    border-radius: 5px;
+
+}
+.sr{
+    background-color:orange;
+    border: none;
+    letter-spacing: 4px;
+    box-shadow: 0px 0px 3px 0px grey;
+    color: white;
+    border-radius: 5px;
+}
+.droplink{
+    padding-left: 5%;
+}
+.users{
+    border: none;
+    background: transparent;
+}
+.frm{
+    display:"flex"
+}
