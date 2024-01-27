@@ -14,7 +14,7 @@ function AllenSolly(){
     if(loginstate===false)
           {
             nav('/SU')
-            alert('Please SignUp To Continue..')
+            alert('Please SignUp To Continue..')//direct login attempt
           }
           else{
     if(like.includes(p)){
