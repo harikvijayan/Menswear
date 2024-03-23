@@ -43,6 +43,7 @@ function Cart(){
     </div>
      :
     <div> 
+    <h1 className='cart-head-title'>Your Cart</h1>
     <div class='container'>  
        {addcart.map((a,i)=> {
        const totalItemPrice = a.Price * a.count;
